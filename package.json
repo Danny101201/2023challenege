@@ -1,0 +1,13 @@
+{
+  "name": "2023challenege",
+  "version": "1.0.0",
+  "decription": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Danny Wu <hiunji64@gmail.com>",
+  "license": "MIT",
+  "deploy": "Netlify",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
